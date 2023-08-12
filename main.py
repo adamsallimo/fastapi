@@ -8,7 +8,7 @@ from datetime import datetime
 app = FastAPI()
 
 origins = [
-    "https://c-room.vercel.app/",
+    "https://c-room.vercel.app",
     "http://localhost:3000",  
 ]
 
